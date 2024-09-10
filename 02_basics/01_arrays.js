@@ -7,4 +7,10 @@ console.log(arry[0]);
 console.log(arry[0]);
 console.log(arry[0]);
 console.log(arry[0]);
+console.log(arry[0]);
+
+console.log(arry[0]);
+
+console.log(arry[0]);
+
 
