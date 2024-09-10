@@ -1,4 +1,3 @@
-let myname = "yashsankhat@gmail.com"
 
 let myname2 = myname;
 
