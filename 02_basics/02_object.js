@@ -13,10 +13,20 @@ const jsuser = {
         }
     }
 }
-console.log(jsuser.fullname.usefullname.firstname);
+// console.log(jsuser.fullname.usefullname.firstname);
 // console.log(jsuser.lastlogindays);
 
 // jsuser.email = "sankhatyash2007@gmail.com"
 // jsuser.name = "vishal sankhat"
 
 // console.log(jsuser);
+
+
+const cource = {
+    courcename: "java script",
+    price: "999",
+    courceinstructor: "yash"
+}
+const { courceinstructor } = cource;
+
+console.log(courceinstructor);
